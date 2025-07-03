@@ -1,0 +1,5 @@
+Nombre_Apellidos = input("Ingrese su nombre completo: ")
+Nombre_Apellidos2 = input("Ingrese su nombre completo: ")
+CodigoSEccion= input("Ingrese el código de sección: ")
+sede= input("Ingrese su sede: ")
+print("Hola" + Nombre_Apellidos + "," + Nombre_Apellidos2 + "," + CodigoSEccion + ", " + sede + ".")
